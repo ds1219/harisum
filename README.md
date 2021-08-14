@@ -1,3 +1,5 @@
+![alt text](https://github.com/ds1219/harisum/blob/main/assets/logo.svg)
+
 # harisum
 
 A cross-platform python tool (gui + cmd) to generate and verify file checksums.
