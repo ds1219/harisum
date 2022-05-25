@@ -1,5 +1,5 @@
 <img src="https://github.com/ds1219/harisum/blob/main/assets/logo.svg" alt="drawing" width="200"/> 
-# harisum
+## harisum
 
 A cross-platform python tool (gui + cmd) to generate and verify file checksums.
 
@@ -17,7 +17,7 @@ hs.py <file> <algo> <key>
 pip install tqdm
 ```
 
-**for best experience use a shell that supports ANSI escape codes**
+**for best experience use a shell that supports coloured output! (ANSI escape codes)**
 
 ## GUI Usage
 
