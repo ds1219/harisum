@@ -3,6 +3,18 @@
 
 A cross-platform python tool (gui + cmd) to generate and verify file checksums.
 
+## BUILD EXE
+### install dependancies
+```
+pip install tqdm pysimplegui pyinstaller
+```
+
+### build gui
+```
+pyinstaller py-hs.spec
+```
+Executable will be generated into the ```dists``` filder
+
 ## CMD Usage
 
 ```
